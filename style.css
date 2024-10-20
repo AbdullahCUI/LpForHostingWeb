@@ -832,12 +832,12 @@ input:checked + .slider:before {
 .footer-content-nav {
   gap: 60px;
   flex-wrap: wrap;
-  align-items: center;
   justify-content: center;
 }
 @media (max-width:768px) {
   .footer-content-nav {
     text-align: center;
+    align-items: center;
   }
 }
 
